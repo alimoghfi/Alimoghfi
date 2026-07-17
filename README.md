@@ -29,6 +29,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,html,css,mysql,git,linux" />
 </p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
