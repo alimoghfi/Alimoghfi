@@ -24,7 +24,11 @@
 - MySQL
 - Linux
 - VS Code
+## 🧩 Tech Stack
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,html,css,mysql,git,linux" />
+</p>
 ---
 
 ## 🚀 What I'm Building
