@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Ali%20Moghfi&fontSize=70&fontColor=ffffff" />
 
-## 👋 Hi, I'm Ali Moghfi
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Python+%7C+Django+%7C+Laravel+%7C+WordPress;Building+Digital+Solutions+🚀" />
 </p>
