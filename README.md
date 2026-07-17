@@ -29,8 +29,15 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,php,laravel,js,html,css,mysql,git,linux" />
 </p>
----
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alimoghfi&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimoghfi&layout=compact&theme=transparent" />
+</p>
 ## 🚀 What I'm Building
 
 - Web applications
