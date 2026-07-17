@@ -39,6 +39,27 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimoghfi&layout=compact&theme=tokyonight" />
 
 </div>
+
+## 🚀 Featured Projects
+
+### 🔹 LogicForge
+Personal brand website and digital solutions platform.
+
+**Tech:** WordPress • WooCommerce • PHP • JavaScript
+
+---
+
+### 🔹 NexusOS
+A desktop-style interface project built with Python.
+
+**Tech:** Python • CustomTkinter
+
+---
+
+### 🔹 Planner App
+A productivity application for task management.
+
+**Tech:** Python • Tkinter • SQLite
 ## 🚀 What I'm Building
 
 - Web applications
