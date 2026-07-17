@@ -60,6 +60,22 @@ A desktop-style interface project built with Python.
 A productivity application for task management.
 
 **Tech:** Python • Tkinter • SQLite
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://logicforge.ir">
+<img src="https://img.shields.io/badge/Website-logicforge.ir-blue?style=for-the-badge&logo=google-chrome" />
+</a>
+
+<a href="mailto:moghfia@gmail.com">
+<img src="https://img.shields.io/badge/Email-moghfia@gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/alimoghfi">
+<img src="https://img.shields.io/badge/GitHub-alimoghfi-black?style=for-the-badge&logo=github" />
+</a>
+</p>
 ## 🚀 What I'm Building
 
 - Web applications
