@@ -31,9 +31,13 @@
 </p>
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=alimoghfi&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimoghfi&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimoghfi&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimoghfi&layout=compact&theme=tokyonight" />
+
+</div>
 ## 🚀 What I'm Building
 
 - Web applications
