@@ -46,21 +46,21 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 LogicForge
+ 🔹 LogicForge
 Personal brand website and digital solutions platform.
 
 **Tech:** WordPress • WooCommerce • PHP • JavaScript
 
 ---
 
-### 🔹 NexusOS
+ 🔹 NexusOS
 A desktop-style interface project built with Python.
 
 **Tech:** Python • CustomTkinter
 
 ---
 
-### 🔹 Planner App
+ 🔹 Planner App
 A productivity application for task management.
 
 **Tech:** Python • Tkinter • SQLite
