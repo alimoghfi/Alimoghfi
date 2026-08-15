@@ -68,11 +68,11 @@ A productivity application for task management.
 ## 📫 Connect With Me
 
 <p>
-<a href="https://logicforge.ir">
+<a href="https://alimoghfi.ir">
 <img src="https://img.shields.io/badge/Website-logicforge.ir-blue?style=for-the-badge&logo=google-chrome" />
 </a>
 
-<a href="mailto:moghfia@gmail.com">
+<a href="mailto: alimoghfi.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-moghfia@gmail.com-red?style=for-the-badge&logo=gmail" />
 </a>
 
