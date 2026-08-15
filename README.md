@@ -69,11 +69,11 @@ A productivity application for task management.
 
 <p>
 <a href="https://alimoghfi.ir">
-<img src="https://img.shields.io/badge/Website-logicforge.ir-blue?style=for-the-badge&logo=google-chrome" />
+<img src="https://img.shields.io/badge/Website-alimoghfi.ir-blue?style=for-the-badge&logo=google-chrome" />
 </a>
 
 <a href="mailto: alimoghfi.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-moghfia@gmail.com-red?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-alimoghfi.dev@gmail.com-red?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://github.com/alimoghfi">
